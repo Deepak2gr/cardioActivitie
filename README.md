@@ -14,13 +14,11 @@ Ever wondered how professional athletes analyze their performance? This project 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/sports-analysis.git
+git clone https://github.com/Deepak2gr/sports-analysis.git
 cd sports-analysis
 2️⃣ Open the Jupyter Notebook:
+https://github.com/Deepak2gr
 
-bash
-Copy
-Edit
 jupyter notebook sport_analysis_856.ipynb
 3️⃣ Run the notebook to explore fitness trends & insights
 
