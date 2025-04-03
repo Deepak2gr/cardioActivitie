@@ -1,4 +1,6 @@
-🏃‍♂️ Sports Activity Analysis 🚴‍♂️
+**🏃‍♂️ Sports Activity Analysis 🚴‍♂️**
+
+
 📌 About the Project
 Ever wondered how professional athletes analyze their performance? This project explores personal fitness data to uncover insights, trends, and improvements. Using a data-driven approach, we analyze workout metrics such as distance, pace, calories burned, and heart rate to optimize training and enhance fitness goals.
 
